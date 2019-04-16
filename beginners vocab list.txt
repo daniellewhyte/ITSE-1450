@@ -1,0 +1,8 @@
+beach;There is lots of sand. You can swim there.
+cat;An animal that says "Meow!"
+chair;Something you sit in.
+clock;It tells you the time.
+sky;Where the sun is. It has lots of clouds.
+cow;An animal that says "Moo!"
+dog;An animal that says "Woof!"
+
